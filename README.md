@@ -4,7 +4,7 @@ Test assignment project built with Vue 3, TypeScript, Vite, and TailwindCSS.
 
 ## Preview
 
-![AI Video Workflow Preview](./public/preview.jpg)
+![AI Video Workflow Preview](./public/preview.gif)
 
 ## Requirements
 
