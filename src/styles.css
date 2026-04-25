@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-charcoal: #403d3e;
+  --color-brand-clay: #8c543f;
+  --color-brand-peach: #d9a38f;
+  --color-brand-light: #f2f2f2;
+  --color-brand-ink: #0d0d0d;
+}
+
+@layer base {
+  body {
+    @apply min-h-screen bg-brand-charcoal text-brand-ink antialiased;
+  }
+}
